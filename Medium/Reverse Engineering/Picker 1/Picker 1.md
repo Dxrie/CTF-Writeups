@@ -2,7 +2,7 @@
 
 ## Challenge Information
 ```
-Difficulty: Easy
+Difficulty: Medium
 Category: Reverse Engineering
 Description: This service can provide you with a random number, but can it do anything else?
 ```
